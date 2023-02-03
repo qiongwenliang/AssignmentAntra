@@ -1,0 +1,15 @@
+/Users/bettyleung/Projects/Assignment/Assignment/bin/Debug/net6.0/Assignment
+/Users/bettyleung/Projects/Assignment/Assignment/bin/Debug/net6.0/Assignment.deps.json
+/Users/bettyleung/Projects/Assignment/Assignment/bin/Debug/net6.0/Assignment.runtimeconfig.json
+/Users/bettyleung/Projects/Assignment/Assignment/bin/Debug/net6.0/Assignment.dll
+/Users/bettyleung/Projects/Assignment/Assignment/bin/Debug/net6.0/Assignment.pdb
+/Users/bettyleung/Projects/Assignment/Assignment/obj/Debug/net6.0/Assignment.csproj.AssemblyReference.cache
+/Users/bettyleung/Projects/Assignment/Assignment/obj/Debug/net6.0/Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bettyleung/Projects/Assignment/Assignment/obj/Debug/net6.0/Assignment.AssemblyInfoInputs.cache
+/Users/bettyleung/Projects/Assignment/Assignment/obj/Debug/net6.0/Assignment.AssemblyInfo.cs
+/Users/bettyleung/Projects/Assignment/Assignment/obj/Debug/net6.0/Assignment.csproj.CoreCompileInputs.cache
+/Users/bettyleung/Projects/Assignment/Assignment/obj/Debug/net6.0/Assignment.dll
+/Users/bettyleung/Projects/Assignment/Assignment/obj/Debug/net6.0/refint/Assignment.dll
+/Users/bettyleung/Projects/Assignment/Assignment/obj/Debug/net6.0/Assignment.pdb
+/Users/bettyleung/Projects/Assignment/Assignment/obj/Debug/net6.0/Assignment.genruntimeconfig.cache
+/Users/bettyleung/Projects/Assignment/Assignment/obj/Debug/net6.0/ref/Assignment.dll
