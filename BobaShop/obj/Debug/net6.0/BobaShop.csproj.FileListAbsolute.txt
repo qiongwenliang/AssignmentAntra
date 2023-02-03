@@ -1,0 +1,15 @@
+/Users/bettyleung/Projects/BobaShop/BobaShop/bin/Debug/net6.0/BobaShop
+/Users/bettyleung/Projects/BobaShop/BobaShop/bin/Debug/net6.0/BobaShop.deps.json
+/Users/bettyleung/Projects/BobaShop/BobaShop/bin/Debug/net6.0/BobaShop.runtimeconfig.json
+/Users/bettyleung/Projects/BobaShop/BobaShop/bin/Debug/net6.0/BobaShop.dll
+/Users/bettyleung/Projects/BobaShop/BobaShop/bin/Debug/net6.0/BobaShop.pdb
+/Users/bettyleung/Projects/BobaShop/BobaShop/obj/Debug/net6.0/BobaShop.csproj.AssemblyReference.cache
+/Users/bettyleung/Projects/BobaShop/BobaShop/obj/Debug/net6.0/BobaShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bettyleung/Projects/BobaShop/BobaShop/obj/Debug/net6.0/BobaShop.AssemblyInfoInputs.cache
+/Users/bettyleung/Projects/BobaShop/BobaShop/obj/Debug/net6.0/BobaShop.AssemblyInfo.cs
+/Users/bettyleung/Projects/BobaShop/BobaShop/obj/Debug/net6.0/BobaShop.csproj.CoreCompileInputs.cache
+/Users/bettyleung/Projects/BobaShop/BobaShop/obj/Debug/net6.0/BobaShop.dll
+/Users/bettyleung/Projects/BobaShop/BobaShop/obj/Debug/net6.0/refint/BobaShop.dll
+/Users/bettyleung/Projects/BobaShop/BobaShop/obj/Debug/net6.0/BobaShop.pdb
+/Users/bettyleung/Projects/BobaShop/BobaShop/obj/Debug/net6.0/BobaShop.genruntimeconfig.cache
+/Users/bettyleung/Projects/BobaShop/BobaShop/obj/Debug/net6.0/ref/BobaShop.dll
