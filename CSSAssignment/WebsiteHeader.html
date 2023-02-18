@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Antra Website,
+            Antra Inc.
+        </title>
+
+        <style>
+            /* Header style */
+            header {
+            padding: 0.1rem;
+            text-align: left;
+            background: #145e74;
+            font-size: 0.5rem;
+            }
+
+            nav {
+                display: flex;
+            }
+            
+            nav ul {
+                list-style: none;
+                display: flex;
+                margin: 0;
+                padding: 0;
+            }
+            
+            nav li {
+                margin: 0.5rem;
+                position: relative;
+            }
+            
+            nav li:hover ul {
+                display: block;
+            }
+            
+            nav a {
+                color: #fff;
+                text-decoration: none;
+                padding: 0.2rem;
+            }
+            
+            nav ul ul {
+                position: absolute;
+                top: 100%;
+                left: 0;
+                display: none;
+                background-color: #333;
+            }
+
+            form.search-box {
+                
+                display: flex;
+                align-items: right;
+            }
+
+            form.search-box button {
+                float: right;
+                background-color: #aeb3af;
+                color: rgb(8, 8, 8);
+                padding: 0.2rem;
+                border: 1px solid grey;
+                cursor: pointer;
+                font-size: 17px;
+            }
+
+            form.search.box hover{
+                background: grey
+            }
+
+            img {
+                border-radius: 8px
+            }
+        </style>
+    </head>
+
+
+    <body>
+        <header>
+            <a href="https://antra.net"><img src="AntraLogo.jpg" alt="Antra Logo" width="50" height ="50"></a>
+            <nav>
+                <ul>
+                    <li>
+                        <a href = "/news/">NEWS</a>
+                        <ul>
+                            <li><a href = "/news1/">NEWS1</a></li>
+                            <li><a href = "/news2/">NEWS2</a></li>
+                            <li><a href = "/news3/">NEWS3</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href = "/about the university/">ABOUT THE UNIVERSITY</a>
+                        <ul>
+                            <li><a href = "/antrauniversity/">Antra University</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href = "/training courses/">TRAINING COURSES</a>
+                        <ul>
+                            <li><a href = "/sql/">SQL</a></li>
+                            <li><a href = "/c#/">C#</a></li>
+                            <li><a href = "/html/">HTML</a></li>
+                            <li><a href = "css">CSS</a></li>
+                        </ul>
+                    </li>
+                    <li><a href = "/for companies/">FOR COMPANIES</a></li> 
+                    <li><a href = "/forum/">FORUM</a></li>
+                    <li><a href = "/contacts/">CONTACTS</a></li>
+                </ul>
+            </nav>
+
+            <form class="search-box" action="/action_page.php" style="margin:auto;max-width:300px">
+                <input type="text" placeholder="Search...">
+                <button type="submit"><i class="fa fa-search"></i></button>
+            </form>
+
+        </header>
+    </body>
+</html>
