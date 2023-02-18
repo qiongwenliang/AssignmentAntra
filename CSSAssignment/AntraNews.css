@@ -1,0 +1,17 @@
+.topline{
+    height:80px;
+}
+
+.buttonTop{
+    text-align: right;
+    padding:30px;
+}
+
+.container{
+    position: absolute; 
+    top: 50px;
+    left: 50px;
+    background-color: #f8f8d5;
+    border: 1px solid #f3d3eb;
+    padding: 10px;
+}
