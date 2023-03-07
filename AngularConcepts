@@ -1,0 +1,19 @@
+Single-page application
+A single-page application performs a single request to the server at the initial download and saves all the data it gets. Consumers can use the received data to work offline if need be, which makes it more convenient for users as it enables them to consume fewer data resources. A single-page application is an app that works inside a browser and does not require page reloading during use. You are using this type of application every day. These are, for instance: Gmail, Google Maps, Facebook or GitHub.
+
+Gmail is a single-page application; thus, clicking messages in your inbox doesn't need you to reload the page. This happens because all the data is loaded from the server at once. The same goes for Google Calendar, Drive, and Google Maps.
+
+Single-page vs. multi-page applications (MPAs)
+Several page applications (MPA) contain multiple pages containing static data and links to other sites. HTML and CSS are the primary technologies used to develop MPA websites. They may use JavaScript to reduce load and increase speed. Organizations offering a broad range of services, such as online stores, should consider using MPAs as they make connecting to several user databases easier.
+
+
+JIT vs AOT:
+JIT: Just-in-time compilation provides compilation during the execution of the program at a run time before execution. In simple words, code gets compiled when it’s needed, not at the build time.
+AOT: When you serve/build your angular application, the Ahead of Time compiler converts your code during the build time before your browser downloads and runs that code. 
+
+You can compile your angular application in two ways: JIT and AOT. Both are suitable for a different scenario like you can use JIT for development mode and AOT is better in production mode.  Implementing features and debugging is easy in JIT mode since you have to map files while AOT does not have it. However, that AOT provides a big benefit to angular developers for production mode by reducing bundle size and making your app render faster.
+
+
+Directives and Pipe:
+Directives are classes that add additional behavior to elements in your Angular applications.
+Pipes are simple functions to use in template expressions to accept an input value and return a transformed value.
