@@ -1,0 +1,11 @@
+Angular Observable and Promise are both used in JavaScript for handling asynchronous operations, but they have some key differences.
+
+1. Execution: Promises execute immediately when they are created, while Observables do not execute until someone subscribes to them.
+
+2. Multiple values: Promises can only emit a single value or an error, while Observables can emit multiple values over time.
+
+3. Cancellation: Promises cannot be canceled once they are created, while Observables can be canceled by unsubscribing from them.
+
+4. Error handling: Promises use a single catch() statement for error handling, while Observables use an error callback function in the subscribe() method.
+
+5. Lazy evaluation: Observables are lazily evaluated, which means they only start executing when they are subscribed to. Promises, on the other hand, are eagerly evaluated, which means they start executing immediately when they are created.
